@@ -1,14 +1,14 @@
 {
       "name": "Mentionall bot",
-      "description": "Mentionall tagger",
+      "description": "Etiket tagger",
       "keywords": [
          "telegram",
          "tagger",
          "group",
-         "mutsuz_panda",
-         "Richard_Ramirezzblog"
+         "mkaofc",
+         "etikettagsup"
       ],   
-   "repository": "https://github.com/amahocam/mentionall",
+   "repository": "https://github.com/K6mando/mentionall",
    "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini bura yazın",
