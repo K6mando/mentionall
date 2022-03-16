@@ -1,9 +1,9 @@
 #################################
-# mentionall Tagger Bot #
+# etiket Tagger Bot #
 #################################
-# Repo Sahibi - mutsuz_panda 
-# Telegram - t.me/Richard_Ramirezz
-# Telegram - t.me/mutsuz_panda 
+# Repo Sahibi - mkaofc 
+# Telegram - t.me/etikettag
+# Telegram - t.me/mkaofc 
 ##################################
 import heroku3
 import random
@@ -499,6 +499,6 @@ async def rtag(event):
 #########################
 
 
-print(">> Bot çalışmaktadur merak etme 🚀 @mutsuz_panda bilgi alabilirsin <<")
+print(">> Bot çalışmaktadur merak etme 🚀 @mkaofc bilgi alabilirsin <<")
 client.run_until_disconnected()
 run_until_disconnected()
